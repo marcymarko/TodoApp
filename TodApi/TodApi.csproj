@@ -19,4 +19,8 @@
     <ProjectReference Include="..\TodoLibrary\TodoLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\StartupConfig\" />
+  </ItemGroup>
+
 </Project>
